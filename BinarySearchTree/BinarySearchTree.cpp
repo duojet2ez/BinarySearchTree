@@ -1,15 +1,15 @@
 #include<iostream>
 
-struct BST
+struct bstNode
 {
 	int value; 
-	BST* right;
-	BST* left; 
+	bstNode* right;
+	bstNode* left; 
 };
 
 int main()
 {
-	//
+	
 
 	return 0; 
 }
