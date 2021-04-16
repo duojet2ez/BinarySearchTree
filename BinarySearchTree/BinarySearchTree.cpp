@@ -7,6 +7,16 @@ struct bstNode
 	bstNode* left; 
 };
 
+class BinarySearchTree
+{
+	BinarySearchTree() {};
+	~BinarySearchTree() {}; 
+
+};
+
+
+
+
 int main()
 {
 	
